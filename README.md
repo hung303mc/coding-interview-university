@@ -216,7 +216,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     I like using university lectures.
 
 
-## Interview Process & General Interview Prep
+## Interview Process & General Interview prep (1 Week - 19 Mar 2017)
 
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
@@ -254,7 +254,7 @@ Read more about choices:
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-## Book List
+## Book List: Prepare and read overview (1 Week - 26 Mar 2017)
 
 This is a shorter list than what I used. This is abbreviated to save you time.
 
@@ -377,7 +377,7 @@ OR:
     - Would rather spend time on coding problems from another book or online coding problems.
 
 
-## Before you Get Started
+## Before you Get Started: make a plan for study (1 Week - 3 Apr 2017)
 
 This list grew over many months, and yes, it kind of got out of hand.
 
@@ -464,7 +464,7 @@ You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
-## Prerequisite Knowledge
+## Prerequisite Knowledge: The journey start ... on 4 Apr 2017
 
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
