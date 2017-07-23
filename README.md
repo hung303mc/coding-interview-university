@@ -57,6 +57,7 @@ If you want to be a reliability engineer or systems engineer, study more from th
 - [What you Won't See Covered](#what-you-wont-see-covered)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
+- [Embbeded Plan](#embedded-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
@@ -279,16 +280,19 @@ If short on time:
 - [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
     - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief.
     - The author invented HLA, so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like.
-    - These chapters are worth the read to give you a nice foundation:
-        - Chapter 2 - Numeric Representation
-        - Chapter 3 - Binary Arithmetic and Bit Operations
-        - Chapter 4 - Floating-Point Representation
-        - Chapter 5 - Character Representation
-        - Chapter 6 - Memory Organization and Access
-        - Chapter 7 - Composite Data Types and Memory Objects
-        - Chapter 9 - CPU Architecture
-        - Chapter 10 - Instruction Set Architecture
-        - Chapter 11 - Memory Architecture and Organization 
+        - [x] Chapter 1 - Basic overview about this book
+    - [ ]Must be read
+        - [ ] Chapter 6 - Memory Organization and Access
+        - [ ] Chapter 7 - Composite Data Types and Memory Objects && (learn data structure)
+        - [ ] Chapter 5 - Character Representation
+    - [ ]Great to read
+        - [ ] Chapter 9 - CPU Architecture
+        - [ ] Chapter 10 - Instruction Set Architecture
+        - [ ] Chapter 11 - Memory Architecture and Organization 
+    - [ ]Good to read
+        - [ ] Chapter 2 - Numeric Representation
+        - [ ] Chapter 3 - Binary Arithmetic and Bit Operations
+        - [ ] Chapter 4 - Floating-Point Representation
 
 If you have more time (I want this book):
 
@@ -476,6 +480,24 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] **How computers process a program:**
     - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+
+## Embedded Plan
+- [ ] [Master RTOS](https://www.udemy.com/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/learn/v4/t/lecture/6383704?start=0)
+    + [x] Kick start
+    + [ ] FreeRTOSConfig.h
+    + [ ] Debug
+    + [ ] RTOS task management
+    + [ ] Delay, hook function, shedule policy
+    + [ ] Int priority, task priority
+    + [ ] Queue
+    + [ ] Semaphore, multual exclusive
+    + [ ] Specify for ARM arch
+    + [ ] FREERTOS + (keil, eclipse, simulator)
+- [ ] [Master MCU] (https://www.udemy.com/mastering-microcontroller-with-peripheral-driver-development/)
+    + [x] GPIO
+    + [ ] SPI
+    + [ ] I2C
+    + [ ] UART
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
